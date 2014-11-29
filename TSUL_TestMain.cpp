@@ -48,12 +48,8 @@ namespace TSUL
 	//アカウント一覧
 	const static STestAccountInfo AccountList[3] = 
 	{
-		//" DAISUL___
-		STestAccountInfo("DAISUL___" , 324693245 , "324693245-W3xEHoPn2LA6oHbpleHmRzN2ddUhxC2h6Y1BoWsa" , "aSuQDLXYd8erZf4h24WBvksyMP9NuXFP8ClTvJfho"),
-		//! ___DAISUL
-		STestAccountInfo("___DAISUL" , 742756764 , "742756764-jIuMtq6CN77tofUDrLnaWEUYmSaQPfiAJFL17XFV" , "44kkzuxiEcKwqEIfnZ2JnP515D6GFAE4FdviM21c4t0"),
 		//! DiceRoomLabo
-		STestAccountInfo("DiceRoomLabo" , 754979576 , "754979576-U4IPoVy8DIxqBgipBtuclQY1fESIBvltRtEh4wuk" , "nAOBUidXbJszOovNPKmy1blcSkpfgT9qL7ASgvmx7Bc")
+		STestAccountInfo("DiceRoomLabo" , ***, "***" , "***")
 	};
 
 
